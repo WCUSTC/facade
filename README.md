@@ -1,8 +1,11 @@
 
 This is the official code repository for the paper A Multi-PTZ Vision System for High-Rise Façade Fire Monitoring and 3D Localization.
 
-# Data
+# fire detection
+## fire detection dataset
+Under preparation; it is expected to be provided once the review stage is completed.
+## fire detection code
 Under preparation; it is expected to be provided once the review stage is completed.
 
-# Code
+# fire localization
 Under preparation; it is expected to be provided once the review stage is completed.
