@@ -1,4 +1,4 @@
-# fa\c{c}ade
+
 This is the official code repository for the paper A Multi-PTZ Vision System for High-Rise Façade Fire Monitoring and 3D Localization.
 
 # Data
